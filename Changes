@@ -4,3 +4,5 @@ Revision history for Perl extension Lingua::Han2PinYin::Light.
 	- original version; created by h2xs 1.23 with options
 		-AX -n Lingua::Han2PinYin::Light
 
+0.03 
+	- remove the 'use 5.008004;'
