@@ -1,0 +1,6 @@
+Revision history for Perl extension Lingua::Han2PinYin::Light.
+
+0.02  Wed Dec 29 19:01:54 2004
+	- original version; created by h2xs 1.23 with options
+		-AX -n Lingua::Han2PinYin::Light
+
